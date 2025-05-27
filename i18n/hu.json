@@ -303,7 +303,6 @@
     "transcoding_hardware_acceleration_description": "Kísérleti funkció. Sokkal gyorsabb, viszont azonos bitrátán is alacsonyabb minőséghez vezet",
     "transcoding_hardware_decoding": "Hardveres dekódolás",
     "transcoding_hardware_decoding_setting_description": "Lehetővé teszi az egész folyamat gyorsítását a pusztán kódolás gyorsítása helyett. Nem biztos, hogy minden videó esetén működik.",
-    "transcoding_hevc_codec": "HEVC kodek",
     "transcoding_max_b_frames": "B-képkockák maximum száma",
     "transcoding_max_b_frames_description": "Nagyobb értékek megnövelik a tömörítés hatékonyságát, de lelassítják a kódolást. Nem minden hardvereszköz támogatja. A 0 érték kikapcsolja a B-képkockákat, míg -1 esetén a szoftver magának választ értéket.",
     "transcoding_max_bitrate": "Maximum bitráta",

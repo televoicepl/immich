@@ -298,7 +298,6 @@
     "transcoding_hardware_acceleration_description": "Experimental; mult mai rapid, dar va avea o calitate mai scăzută la același bitrate",
     "transcoding_hardware_decoding": "Decodare hardware",
     "transcoding_hardware_decoding_setting_description": "Se aplică doar pentru NVENC, QSV și RKMPP. Activează accelerarea completă în loc de doar accelerarea codificării. S-ar putea să nu funcționeze pentru toate videoclipurile.",
-    "transcoding_hevc_codec": "Codec HEVC",
     "transcoding_max_b_frames": "Număr maxim de cadre B",
     "transcoding_max_b_frames_description": "Valorile mai mari îmbunătățesc eficiența compresiei, dar încetinesc codarea. Este posibil să nu fie compatibile cu accelerarea hardware pe dispozitivele mai vechi. 0 dezactivează cadrele B, în timp ce -1 setează această valoare automat.",
     "transcoding_max_bitrate": "Rata de biți maximă",

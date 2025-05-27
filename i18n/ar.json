@@ -293,7 +293,6 @@
     "transcoding_hardware_acceleration_description": "تجريبي؛ أسرع بكثير، ولكن ستكون جودتها أقل عند نفس معدل البت",
     "transcoding_hardware_decoding": "فك تشفير الأجهزة",
     "transcoding_hardware_decoding_setting_description": "ينطبق ذلك فقط على NVENC، QSV، و RKMPP. يمكن التسريع من طرف لطرف بدلاً من تسريع الترميز فقط. قد لا يعمل على جميع مقاطع الفيديو.",
-    "transcoding_hevc_codec": "كود HEVC",
     "transcoding_max_b_frames": "أقصى عدد من الإطارات B",
     "transcoding_max_b_frames_description": "القيم الأعلى تعزز كفاءة الضغط، ولكنها تبطئ عملية الترميز. قد لا تكون متوافقة مع التسريع العتادي على الأجهزة القديمة. قيمة 0 تعطل إطارات B، بينما تضبط القيمة -1 هذا القيمة تلقائيًا.",
     "transcoding_max_bitrate": "الحد الأقصى لمعدل البت",

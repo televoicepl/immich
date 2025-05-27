@@ -219,7 +219,6 @@
     "transcoding_constant_quality_mode": "Pastovios kokybės režimas",
     "transcoding_hardware_acceleration": "Techninės įrangos spartinimas",
     "transcoding_hardware_decoding": "Aparatinis dekodavimas",
-    "transcoding_hevc_codec": "HEVC kodekas",
     "transcoding_max_bitrate": "Maksimalus bitų srautas",
     "transcoding_target_resolution_description": "Didesnės skiriamosios gebos gali išsaugoti daugiau detalių, tačiau jas koduoti užtrunka ilgiau, failų dydžiai yra didesni ir gali sumažėti programos jautrumas.",
     "transcoding_video_codec": "Video kodekas",

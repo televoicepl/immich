@@ -236,7 +236,6 @@
     "transcoding_hardware_acceleration": "شتاب دهنده سخت افزاری",
     "transcoding_hardware_acceleration_description": "آزمایشی؛ بسیار سریع‌تر است، اما در همان بیت‌ریت کیفیت کمتری خواهد داشت",
     "transcoding_hardware_decoding": "رمزگشایی سخت افزاری",
-    "transcoding_hevc_codec": "کدک HEVC",
     "transcoding_max_b_frames": "بیشترین B-frames",
     "transcoding_max_b_frames_description": "مقادیر بالاتر کارایی فشرده سازی را بهبود می‌بخشند، اما کدگذاری را کند می‌کنند. ممکن است با شتاب دهی سخت‌افزاری در دستگاه‌های قدیمی سازگار نباشد. مقدار( 0 ) B-frames را غیرفعال می‌کند، در حالی که مقدار ( 1 ) این مقدار را به صورت خودکار تنظیم می‌کند.",
     "transcoding_max_bitrate": "بیشترین بیت ریت",

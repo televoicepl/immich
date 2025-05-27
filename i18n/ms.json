@@ -293,7 +293,6 @@
     "transcoding_hardware_acceleration_description": "Eksperimen; lebih pantas, tetapi akan mempunyai kualiti yang lebih rendah pada kadar bit yang sama",
     "transcoding_hardware_decoding": "Penyahkodan perkakasan",
     "transcoding_hardware_decoding_setting_description": "Mendayakan pecutan hujung ke hujung dan bukannya hanya mempercepatkan pengekodan. Mungkin tidak berfungsi pada semua video.",
-    "transcoding_hevc_codec": "Codec HEVC",
     "transcoding_max_b_frames": "Bingkai-B maksimum",
     "transcoding_max_b_frames_description": "Nilai yang lebih tinggi meningkatkan kecekapan mampatan, tetapi memperlahankan pengekodan. Mungkin tidak serasi dengan pecutan perkakasan pada peranti lama. 0 melumpuhkan bingkai B, manakala -1 menetapkan nilai ini secara automatik.",
     "transcoding_max_bitrate": "Kadar bit maksimum",
